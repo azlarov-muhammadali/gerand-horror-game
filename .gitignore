@@ -1,0 +1,48 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+
+
+
+
+
+
+
+ const URL_ШКАФА = "Снимок экрана 2026-06-14 141035.png"; 
+  const URL_ТУАЛЕТА = "Снимок экрана 2026-06-14 141526.png"; 
+  const URL_КУХНИ = "Снимок экрана 2026-06-14 141646.png"; 
+  const URL_КРОВАТИ = "Снимок экрана 2026-06-14 141251.png"; 
+
+  // Картинки монстров-танков Геранда (на прозрачном фоне .png)
+  const URL_ФЕЛИКСА = "Снимок экрана 2026-06-14 124501.png";
+  const URL_МИСАУТА = "Снимок экрана 2026-06-14 135900.png";
+  const URL_МАРТИ = "Снимок экрана 2026-06-14 124733.png";
+  const URL_АЗИКА = "Снимок экрана 2026-06-14 140807.png";
+
+  // Прямые ссылки на MP3 звуки скримеров
+  const AUDIO_ФЕЛИКСА = "https://youtube.com/shorts/hAQ7Nc3tIzo?si=6MllHuy_nT3K5a63"; 
+  const AUDIO_МИСАУТА = "https://youtu.be/oS4jv2jFpFk?si=TrPFUdaMo0PwUC_o"; 
+  const AUDIO_МАРТИ = "https://youtube.com/shorts/CmnqmSCPVPk?si=WzkIbI4u_xFTnrjC";   
+  const AUDIO_АЗИКА = "https://youtu.be/a46E-veU1gg?si=dC6FVESurR_tzXRp";   
